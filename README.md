@@ -1,3 +1,5 @@
+<p>Following tutorial from <a href="https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-1/">Modern Full-Stack Development with Nest.js, React, TypeScript, and MongoDB: Part 1</a></p>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
